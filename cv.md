@@ -11,6 +11,10 @@ email address: rsaldiny@gmail.com
 * Java
 * Javascript
 
+**Languages:** 
+
+* English
+
 Recent coding experience: https://github.com/rsaldiny/JS-Drum-Kit
 
 
